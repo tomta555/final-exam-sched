@@ -1,5 +1,6 @@
 import os
 
+solution_folder = "solution/" 
 
 def printProgressBar(
     iteration,
@@ -30,12 +31,13 @@ def printProgressBar(
     # Print New Line on Complete
     if iteration == total:
         print()
-folder = "example_solution/" 
-file_list = os.listdir(folder)
+
+
+file_list = os.listdir(solution_folder)
 round_count = 0
 printProgressBar(0, 4, prefix="Progress:", suffix="Complete", length=50)
 for j in range(4):
-    file = "py penalty_calc.py "+folder+file_list[round_count]
+    file = "py penalty_calc.py "+solution_folder+file_list[round_count]
     os.system(file)
     round_count += 1
     printProgressBar(round_count, 4, prefix="Progress:", suffix="Complete", length=50)
