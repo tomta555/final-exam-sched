@@ -15,7 +15,12 @@ outout_file_postfix = OPTION
 # Valid slot 
 TOTAL_SLOTS = 42
 
-data_path = "example_data"
+# data folder
+data_path = "data"
+
+# output folder path
+out_folder_path  = "solution/"
+
 # student regist file path
 regist_path = data_path+"/regist.in"
 
@@ -34,8 +39,6 @@ fa_course_path  = data_path+"/exam-courses-faculty"
 # capacity file path
 capacity_path  = data_path+"/faculty-capacity.in"
 
-# output folder path
-out_folder_path  = "example_solution/"
 
 START_TIME = time.time() 
 MAX_CAPACITY = {
