@@ -45,6 +45,5 @@ for k, v in summary_regist.items():
     timetable_dict["student_id"] = std_id
     data_json.append(timetable_dict)
     
-print(data_json[:10])
 with open('student_timetable.json', 'w') as outfile:
     json.dump(data_json, outfile)
