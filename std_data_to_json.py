@@ -6,22 +6,24 @@ data_folder = "example_data/"
 
 solution_folder = "example_solution/"
 
-all_c = data_folder+"all-exam-course.in"
+all_courses_file = data_folder+"all-exam-course.in"
 
-st = data_folder+"regist-studentid.in"
+student_file = data_folder+"regist-studentid.in"
 
-sctble = solution_folder+"graph-coloring-solution-deg.txt"
+solution_file_name = "graph-coloring-solution-deg.txt"
+
+solution_file = solution_folder+solution_file_name
 
 all_courses_set = set()
-with open(all_c,"r",encoding="utf-8-sig") as all_exam:
+with open(all_courses_file,"r",encoding="utf-8-sig") as all_exam:
     all_courses_list = list(csv.reader(all_exam,delimiter=" "))
     for i in all_courses_list:
         all_courses_set.add(i[0])
 
-with open(st,"r",encoding="utf-8-sig") as regist:
+with open(student_file,"r",encoding="utf-8-sig") as regist:
     regist_std = list(csv.reader(regist,delimiter=" "))
 
-with open(sctble,"r",encoding="utf-8-sig") as table:
+with open(solution_file,"r",encoding="utf-8-sig") as table:
     sched_table = dict(csv.reader(table,delimiter=" "))
 
 summary_regist = {}
