@@ -1,0 +1,32 @@
+name:example_solution/graph-coloring-solution-deg-bfs.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          485471.0
+penalty:       {1: 5633.0, 2: 0, 3: 133926, 4: 53118, 5: 19418, 6: 15196, 7: 258180}
+penalty_count: {1: 2, 2: 0, 3: 1717, 4: 681, 5: 511, 6: 524, 7: 21515}
+{1: {'fa': ['01'], 'cid': ['001218']}, 13: {'fa': ['01', '01', '05', '05', '06', '06'], 'cid': ['001410', '026111', '204341', '207313', '270702', '270791']}}
+
+name:example_solution/graph-coloring-solution-deg.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          501745.0
+penalty:       {1: 6568.0, 2: 0, 3: 134316, 4: 52494, 5: 19228, 6: 14819, 7: 274320}
+penalty_count: {1: 2, 2: 0, 3: 1722, 4: 673, 5: 506, 6: 511, 7: 22860}
+{1: {'fa': ['01'], 'cid': ['001218']}, 13: {'fa': ['01', '01', '05', '05', '05', '06'], 'cid': ['014401', '026111', '202332', '206436', '207313', '269430']}}
+
+name:example_solution/graph-coloring-solution-std-bfs.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          493997.0
+penalty:       {1: 3856.0, 2: 0, 3: 134316, 4: 51012, 5: 18468, 6: 8497, 7: 277848}
+penalty_count: {1: 2, 2: 0, 3: 1722, 4: 654, 5: 486, 6: 293, 7: 23154}
+{1: {'fa': ['01', '05'], 'cid': ['001250', '207308']}, 4: {'fa': ['01'], 'cid': ['012371']}}
+
+name:example_solution/graph-coloring-solution-std.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          456082.0
+penalty:       {1: 1252.0, 2: 0, 3: 121368, 4: 53118, 5: 21394, 6: 8294, 7: 250656}
+penalty_count: {1: 2, 2: 0, 3: 1556, 4: 681, 5: 563, 6: 286, 7: 20888}
+{4: {'fa': ['01'], 'cid': ['001461']}, 1: {'fa': ['01', '05'], 'cid': ['001464', '207313']}}
+
