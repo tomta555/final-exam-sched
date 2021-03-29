@@ -19,7 +19,7 @@ TOTAL_SLOTS = 42
 data_path = "data"
 
 # output folder path
-out_folder_path  = "solution/"
+out_folder_path = "solution"
 
 # student regist file path
 regist_path = data_path+"/regist.in"
@@ -607,15 +607,18 @@ def main():
     print("Each penalty count of solution:")
     for k, v in schedule.penalty_count.items():
         print(str(int(k)) + ": " + str(v))
+    
+    if not os.path.exists(out_folder_path):
+        os.makedirs(out_folder_path)
 
-    with open(out_folder_path +"graph-coloring-solution"+outout_file_postfix+".txt",
+    with open(out_folder_path +"/graph-coloring-solution"+outout_file_postfix+".txt",
         "a",
         encoding="utf-8-sig",
     ) as ch:
         for k in sorted(schedule.solution.keys()):
             ch.write(str(k) + " " + str(schedule.solution[k]) + "\n")
     
-    print("Solution saved to "+out_folder_path+"graph-coloring-solution"+outout_file_postfix+"-"+str(TOTAL_SLOTS)+".txt ...")
+    print("Solution saved to "+out_folder_path+"/graph-coloring-solution"+outout_file_postfix+"-"+str(TOTAL_SLOTS)+".txt ...")
     print("--- Execution time %s seconds ---" % ((time.time() - START_TIME)))
 
 
