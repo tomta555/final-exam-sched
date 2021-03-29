@@ -13,7 +13,7 @@ TOTAL_SLOTS = 42
 data_path = "data"
 
 # output folder path
-penalty_file_path  = "solution/"
+penalty_file_path  = "penalty_report/"
 
 # student regist file path
 regist_path = data_path+"/regist.in"
