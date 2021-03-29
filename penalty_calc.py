@@ -13,7 +13,7 @@ TOTAL_SLOTS = 42
 data_path = "data"
 
 # output folder path
-penalty_file_path  = "penalty_report/"
+penalty_file_path  = "penalty_report"
 
 # student regist file path
 regist_path = data_path+"/regist.in"
@@ -449,7 +449,10 @@ with open(penalty_file_path+penalty_file, "a") as p_file:
     else:
         p_file.write("exceed_capa:  "+str(capa_detail)+"\n\n")
 
-with open(penalty_file_path+"pen_result_csv.csv","a") as res_csv:
+if not os.path.exists(penalty_file_path):
+    os.makedirs(penalty_file_path)
+    
+with open(penalty_file_path+"/pen_result_csv.csv","a") as res_csv:
     res_csv.write(exam_table+"\n")
     pen_str = ","
     for i in range(len(penalties_count.keys())):
