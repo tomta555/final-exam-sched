@@ -1,0 +1,267 @@
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+        <style type="text/css">
+            @font-face {
+              font-family: 'TH Niramit AS';
+              src: url('/apps/themes/fonts/THNiramitAS.eot');
+              src: url('/apps/themes/fonts/THNiramitAS.eot?#iefix') format('embedded-opentype'), url('/apps/themes/fonts/THNiramitAS.woff') format('woff'), url('/apps/themes/fonts/THNiramitAS.ttf') format('truetype'), url('/apps/themes/fonts/THNiramitAS.svg#glyphicons-halflingsregular') format('svg');
+            }
+            .report {
+                font-family: "TH Niramit AS" !important;
+            }
+            .report .report-page {
+              float: right;
+              font-size: 13pt;
+              line-height: 34px;
+            }
+            .report .report-title {
+                width: 100%;
+                text-align: center;
+                font-size: 18pt;
+                font-weight: bold;
+                word-wrap:break-word;
+            }
+            .report {
+                width: 100%;
+                text-align: left;
+                font-size: 14pt;
+                font-weight: normal;
+                word-wrap:break-word;
+            }
+            .report .report-list {
+                width: 100%;
+            }
+            .report .report-list thead tr th {
+                font-size: 16pt;
+                line-height: 16pt;
+                font-weight: bold;
+                text-align: center;
+                padding: 5px 0px 2px 0px;
+                vertical-align: middle;
+            }
+            .report .report-list tbody tr td {
+                font-size: 16pt;
+                padding: 7px 3px 0px 3px;
+            }
+        </style>
+      </head>
+  <body>
+      <div class="report">
+          <div class="report-body">
+                <table border="0" cellpadding="0" cellspacing="0" class="report-list">
+                    <thead>
+                        <tr>
+                            <th align="center" valign="middle" colspan="7">
+                                ตารางสอบปลายภาค ประจำภาคการศึกษาที่
+                                1/2560                            </th>
+                        </tr>
+                        <tr>
+                            <th align="center" valign="middle" colspan="7">
+                                หลักสูตรปริญญาตรี(ภาคพิเศษ)                                &nbsp;
+                                คณะศึกษาศาสตร์ มหาวิทยาลัยเชียงใหม่                            </th>
+                        </tr>
+                    </thead>
+                </table>
+                <table border="1" cellpadding="0" cellspacing="0" class="report-list">
+                    <thead>
+                        <tr>
+                            <th align="center" valign="middle" style="width: 18%;">วัน-เดือน-ปี<br>เวลา</th>
+                            <th align="center" valign="middle" style="width: 8%;">กระบวน<br>วิชา</th>
+                            <th align="center" valign="middle" style="width: 5%;">ตอน<br>ที่</th>
+                            <th align="center" valign="middle" style="width: 8%;">จำนวน<br>นักศึกษา</th>
+                            <th align="center" valign="middle">ห้องสอบ</th>
+                            <th align="center" valign="middle">กรรมการคุมสอบ</th>
+                            <th align="center" valign="middle" style="width: 15%;">ลายมือชื่อ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                                        <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันพุธ                                <br>&nbsp;29 พฤศจิกายน 2560                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061306</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">49</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. น.ส.วนิดา สินเบญจพงศ์                                        <br>                                        2. น.ส.ปิยะฉัตร ฉัตรเผ่าพงศ์                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันเสาร์                                <br>&nbsp;2 ธันวาคม 2560                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">079466</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">23</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4208)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นายปรีชา ธนันชัย                                        <br>                                        2. รศ.พลสิทธิ์ สิทธิชมภู                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057136</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">40</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. ผศ.ดร.กรัณย์ ปัญโญ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">079444</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">21</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4208)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นายปรีชา ธนันชัย                                        <br>                                        2. รศ.พลสิทธิ์ สิทธิชมภู                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันอาทิตย์                                <br>&nbsp;3 ธันวาคม 2560                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061309</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">48</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุพจน์ จิตรทอง                                        <br>                                        2. นางนิตยา สอาดล้วน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061309</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;802</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">48</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุพจน์ จิตรทอง                                        <br>                                        2. นางนิตยา สอาดล้วน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันศุกร์                                <br>&nbsp;8 ธันวาคม 2560                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057122</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;701</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">35</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคารพลศึกษา ชั้น 1                                        &nbsp;                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นายปรีชา ธนันชัย                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    15.30-18.30                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">071425</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">6</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4205)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. รศ.พนิดา สินสุวรรณ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันอังคาร                                <br>&nbsp;12 ธันวาคม 2560                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">064424</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">39</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นางนิตยา สอาดล้วน                                        <br>                                        2. นายรชกร ไชยวงศ์                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                            </tbody>
+                </table>
+          </div>
+      </div>
+  </body>
+</html>

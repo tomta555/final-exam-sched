@@ -1,0 +1,207 @@
+name:data/sched-exam-table-33/graph-coloring-solution-61-1-deg-bfs.txt
+total courses:          1432
+student having an exam: 13171
+total_penalty:          407856
+penalty:       {1: 0, 2: 70000, 3: 122226, 4: 89778, 5: 52706, 6: 17226, 7: 55920}
+penalty_count: {1: 0, 2: 7, 3: 1567, 4: 1151, 5: 1387, 6: 594, 7: 4660}
+{}
+conflicts:    {'001101 206261': 3, '001101 215205': 4}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-1-deg.txt
+total courses:          1432
+student having an exam: 13171
+total_penalty:          247025.0
+penalty:       {1: 1363.0, 2: 0, 3: 115908, 4: 30576, 5: 28082, 6: 15776, 7: 55320}
+penalty_count: {1: 2, 2: 0, 3: 1486, 4: 392, 5: 739, 6: 544, 7: 4610}
+{10: {'fa': ['01', '01'], 'cid': ['001318', '006303']}, 1: {'fa': ['01'], 'cid': ['001353']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-1-std-bfs.txt
+total courses:          1432
+student having an exam: 13171
+total_penalty:          297407
+penalty:       {1: 2, 2: 0, 3: 148200, 4: 62166, 5: 18962, 6: 7801, 7: 60276}
+penalty_count: {1: 1, 2: 0, 3: 1900, 4: 797, 5: 499, 6: 269, 7: 5023}
+{1: {'fa': ['01'], 'cid': ['001201']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-1-std.txt
+total courses:          1432
+student having an exam: 13171
+total_penalty:          218335.0
+penalty:       {1: 541.0, 2: 0, 3: 98826, 4: 36036, 5: 20026, 6: 7946, 7: 54960}
+penalty_count: {1: 1, 2: 0, 3: 1267, 4: 462, 5: 527, 6: 274, 7: 4580}
+{4: {'fa': ['01'], 'cid': ['001321']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-2-deg-bfs.txt
+total courses:          1551
+student having an exam: 13095
+total_penalty:          541583
+penalty:       {1: 2, 2: 0, 3: 262158, 4: 95394, 5: 88046, 6: 34075, 7: 61908}
+penalty_count: {1: 1, 2: 0, 3: 3361, 4: 1223, 5: 2317, 6: 1175, 7: 5159}
+{1: {'fa': ['01'], 'cid': ['001201']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-2-deg.txt
+total courses:          1551
+student having an exam: 13095
+total_penalty:          469766
+penalty:       {1: 0, 2: 0, 3: 224250, 4: 102882, 5: 58748, 6: 22446, 7: 61440}
+penalty_count: {1: 0, 2: 0, 3: 2875, 4: 1319, 5: 1546, 6: 774, 7: 5120}
+{}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-2-std-bfs.txt
+total courses:          1551
+student having an exam: 13095
+total_penalty:          12370488.0
+penalty:       {1: 11808635.0, 2: 80000, 3: 221286, 4: 132990, 5: 32756, 6: 28101, 7: 66720}
+penalty_count: {1: 1, 2: 8, 3: 2837, 4: 1705, 5: 862, 6: 969, 7: 5560}
+{1: {'fa': ['01', '01', '01'], 'cid': ['001224', '001225', '001227']}}
+conflicts:    {'001201 203111': 4, '001201 259103': 2, '357101 703204': 1, '001210 703204': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-61-2-std.txt
+total courses:          1551
+student having an exam: 13095
+total_penalty:          435643.0
+penalty:       {1: 2467.0, 2: 40000, 3: 199836, 4: 85488, 5: 31464, 6: 15080, 7: 61308}
+penalty_count: {1: 1, 2: 4, 3: 2562, 4: 1096, 5: 828, 6: 520, 7: 5109}
+{1: {'fa': ['01'], 'cid': ['001210']}}
+conflicts:    {'201116 203226': 1, '057276 259103': 1, '057123 103271': 1, '050103 057122': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-1-deg-bfs.txt
+total courses:          1729
+student having an exam: 19786
+total_penalty:          698835
+penalty:       {1: 0, 2: 0, 3: 289146, 4: 100308, 5: 141246, 6: 55419, 7: 112716}
+penalty_count: {1: 0, 2: 0, 3: 3707, 4: 1286, 5: 3717, 6: 1911, 7: 9393}
+{}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-1-deg.txt
+total courses:          1729
+student having an exam: 19786
+total_penalty:          494392.0
+penalty:       {1: 15169.0, 2: 0, 3: 266994, 4: 62790, 5: 44384, 6: 20851, 7: 84204}
+penalty_count: {1: 1, 2: 0, 3: 3423, 4: 805, 5: 1168, 6: 719, 7: 7017}
+{16: {'fa': ['01', '01', '05', '05', '05', '05', '18', '18'], 'cid': ['001231', '013302', '206217', '207208', '208270', '229323', '851200', '851204']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-1-std-bfs.txt
+total courses:          1729
+student having an exam: 19786
+total_penalty:          503796
+penalty:       {1: 2, 2: 0, 3: 254358, 4: 99450, 5: 32414, 6: 17516, 7: 100056}
+penalty_count: {1: 1, 2: 0, 3: 3261, 4: 1275, 5: 853, 6: 604, 7: 8338}
+{1: {'fa': ['01'], 'cid': ['001201']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-1-std.txt
+total courses:          1729
+student having an exam: 19786
+total_penalty:          562358.0
+penalty:       {1: 3589.0, 2: 50000, 3: 214656, 4: 99060, 5: 42940, 6: 23809, 7: 128304}
+penalty_count: {1: 2, 2: 5, 3: 2752, 4: 1270, 5: 1130, 6: 821, 7: 10692}
+{1: {'fa': ['01', '05'], 'cid': ['001330', '206281']}, 4: {'fa': ['01'], 'cid': ['021270']}}
+conflicts:    {'356100 602100': 1, '057121 602102': 1, '019101 356102': 1, '050100 057129': 1, '018111 202184': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-2-deg-bfs.txt
+total courses:          1828
+student having an exam: 19505
+total_penalty:          2295264.0
+penalty:       {1: 5064.0, 2: 1490000, 3: 339300, 4: 182052, 5: 111796, 6: 61944, 7: 105108}
+penalty_count: {1: 1, 2: 149, 3: 4350, 4: 2334, 5: 2942, 6: 2136, 7: 8759}
+{17: {'fa': ['01'], 'cid': ['050106']}}
+conflicts:    {'001102 255340': 1, '001102 050106': 80, '001101 462130': 1, '001101 208101': 2, '050112 057123': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-2-deg.txt
+total courses:          1828
+student having an exam: 19505
+total_penalty:          696688.0
+penalty:       {1: 6143.0, 2: 0, 3: 359034, 4: 131040, 5: 60534, 6: 30653, 7: 109284}
+penalty_count: {1: 1, 2: 0, 3: 4603, 4: 1680, 5: 1593, 6: 1057, 7: 9107}
+{1: {'fa': ['01', '01', '01', '05', '05', '05'], 'cid': ['001201', '013306', '018114', '204306', '206341', '215313']}}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-2-std-bfs.txt
+total courses:          1828
+student having an exam: 19505
+total_penalty:          1907683.0
+penalty:       {1: 1321733.0, 2: 10000, 3: 273780, 4: 140556, 5: 41534, 6: 26216, 7: 93864}
+penalty_count: {1: 1, 2: 1, 3: 3510, 4: 1802, 5: 1093, 6: 904, 7: 7822}
+{1: {'fa': ['01', '01', '01'], 'cid': ['001223', '001227', '001229']}}
+conflicts:    {'057128 702101': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-62-2-std.txt
+total courses:          1828
+student having an exam: 19505
+total_penalty:          640217.0
+penalty:       {1: 16411.0, 2: 70000, 3: 275262, 4: 136266, 5: 28538, 6: 22852, 7: 90888}
+penalty_count: {1: 1, 2: 7, 3: 3529, 4: 1747, 5: 751, 6: 788, 7: 7574}
+{4: {'fa': ['01', '01', '01', '01', '01', '01', '03', '03'], 'cid': ['008326', '013337', '014310', '018126', '019112', '020261', '112406', '115300']}}
+conflicts:    {'078444 602103': 1, '001101 015101': 1, '103271 206161': 2, '057127 201116': 1, '057121 057128': 1, '057122 074101': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-1-deg-bfs.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          890247.0
+penalty:       {1: 39656.0, 2: 10000, 3: 354276, 4: 210288, 5: 81016, 6: 56579, 7: 138432}
+penalty_count: {1: 2, 2: 1, 3: 4542, 4: 2696, 5: 2132, 6: 1951, 7: 11536}
+{1: {'fa': ['01', '01'], 'cid': ['001218', '001323']}, 13: {'fa': ['01', '01', '01', '01', '01', '05', '05', '05', '05', '05', '11'], 'cid': ['001330', '003414', '004303', '011358', '014390', '202474', '203235', '206104', '215481', '218321', '515250']}}
+conflicts:    {'001210 259107': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-1-deg.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          883776.0
+penalty:       {1: 21235.0, 2: 10000, 3: 364728, 4: 227526, 5: 75392, 6: 55187, 7: 129708}
+penalty_count: {1: 1, 2: 1, 3: 4676, 4: 2917, 5: 1984, 6: 1903, 7: 10809}
+{13: {'fa': ['01', '01', '01', '01', '05', '05', '05', '05', '05', '10'], 'cid': ['001464', '003421', '004241', '014410', '202305', '203235', '206104', '208343', '214401', '464544']}}
+conflicts:    {'001210 259107': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-1-std-bfs.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          998201.0
+penalty:       {1: 38470.0, 2: 120000, 3: 373542, 4: 216762, 5: 61180, 6: 38019, 7: 150228}
+penalty_count: {1: 3, 2: 12, 3: 4789, 4: 2779, 5: 1610, 6: 1311, 7: 12519}
+{4: {'fa': ['01', '01', '01', '01'], 'cid': ['001212', '001315', '011152', '021204']}, 1: {'fa': ['01', '01', '05'], 'cid': ['001311', '001318', '203236']}, 22: {'fa': ['11'], 'cid': ['515403']}}
+conflicts:    {'751301 751302': 1, '003191 127100': 1, '057121 851100': 1, '012200 211319': 1, '057121 356101': 1, '018111 359202': 1, '003191 009103': 1, '201114 360100': 3, '011251 330110': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-1-std.txt
+total courses:          1894
+student having an exam: 26549
+total_penalty:          911041.0
+penalty:       {1: 41840.0, 2: 160000, 3: 339690, 4: 147108, 5: 72314, 6: 29957, 7: 120132}
+penalty_count: {1: 3, 2: 16, 3: 4355, 4: 1886, 5: 1903, 6: 1033, 7: 10011}
+{1: {'fa': ['01', '05', '05'], 'cid': ['001202', '207401', '209302']}, 4: {'fa': ['01', '01', '01', '11'], 'cid': ['001354', '011152', '013217', '515490']}, 19: {'fa': ['21', '21'], 'cid': ['955103', '958201']}}
+conflicts:    {'064424 400110': 1, '057128 159101': 1, '064424 259104': 1, '356100 602100': 1, '057126 356102': 1, '201116 360210': 1, '357101 801100': 1, '003191 462130': 2, '103271 215205': 1, '011100 057128': 1, '351202 400110': 1, '050103 206100': 1, '057121 356100': 1, '019101 206171': 1, '018111 126101': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-2-deg-bfs.txt
+total courses:          1770
+student having an exam: 24392
+total_penalty:          1208829
+penalty:       {1: 4, 2: 190000, 3: 545298, 4: 195468, 5: 74062, 6: 42021, 7: 161976}
+penalty_count: {1: 1, 2: 19, 3: 6991, 4: 2506, 5: 1949, 6: 1449, 7: 13498}
+{1: {'fa': ['01', '01'], 'cid': ['001102', '001201']}}
+conflicts:    {'001228 801100': 2, '001230 026101': 1, '001227 352311': 8, '001227 604315': 5, '001228 703202': 3}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-2-deg.txt
+total courses:          1770
+student having an exam: 24392
+total_penalty:          940610.0
+penalty:       {1: 5390.0, 2: 10000, 3: 396006, 4: 212160, 5: 102752, 6: 51330, 7: 162972}
+penalty_count: {1: 2, 2: 1, 3: 5077, 4: 2720, 5: 2704, 6: 1770, 7: 13581}
+{4: {'fa': ['01'], 'cid': ['001201']}, 1: {'fa': ['01', '01', '01'], 'cid': ['013204', '018114', '026201']}}
+conflicts:    {'751100 954140': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-2-std-bfs.txt
+total courses:          1770
+student having an exam: 24392
+total_penalty:          983596.0
+penalty:       {1: 16654.0, 2: 90000, 3: 399360, 4: 224718, 5: 66728, 6: 30508, 7: 155628}
+penalty_count: {1: 1, 2: 9, 3: 5120, 4: 2881, 5: 1756, 6: 1052, 7: 12969}
+{1: {'fa': ['01', '01', '01'], 'cid': ['001102', '001201', '001228']}}
+conflicts:    {'050100 357101': 1, '001201 001228': 5, '201114 357110': 1, '019101 801100': 1}
+
+name:data/sched-exam-table-33/graph-coloring-solution-63-2-std.txt
+total courses:          1770
+student having an exam: 24392
+total_penalty:          841543.0
+penalty:       {1: 2272.0, 2: 100000, 3: 338442, 4: 187590, 5: 47006, 6: 31581, 7: 134652}
+penalty_count: {1: 1, 2: 10, 3: 4339, 4: 2405, 5: 1237, 6: 1089, 7: 11221}
+{1: {'fa': ['01'], 'cid': ['001230']}}
+conflicts:    {'050100 261112': 1, '050100 357101': 1, '261112 357101': 1, '176100 602102': 1, '201114 357110': 1, '208101 751308': 1, '057122 208272': 1, '203100 751309': 1, '026101 177321': 1, '013110 026101': 1}
+

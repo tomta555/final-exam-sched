@@ -1,0 +1,472 @@
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+        <style type="text/css">
+            @font-face {
+              font-family: 'TH Niramit AS';
+              src: url('/apps/themes/fonts/THNiramitAS.eot');
+              src: url('/apps/themes/fonts/THNiramitAS.eot?#iefix') format('embedded-opentype'), url('/apps/themes/fonts/THNiramitAS.woff') format('woff'), url('/apps/themes/fonts/THNiramitAS.ttf') format('truetype'), url('/apps/themes/fonts/THNiramitAS.svg#glyphicons-halflingsregular') format('svg');
+            }
+            .report {
+                font-family: "TH Niramit AS" !important;
+            }
+            .report .report-page {
+              float: right;
+              font-size: 13pt;
+              line-height: 34px;
+            }
+            .report .report-title {
+                width: 100%;
+                text-align: center;
+                font-size: 18pt;
+                font-weight: bold;
+                word-wrap:break-word;
+            }
+            .report {
+                width: 100%;
+                text-align: left;
+                font-size: 14pt;
+                font-weight: normal;
+                word-wrap:break-word;
+            }
+            .report .report-list {
+                width: 100%;
+            }
+            .report .report-list thead tr th {
+                font-size: 16pt;
+                line-height: 16pt;
+                font-weight: bold;
+                text-align: center;
+                padding: 5px 0px 2px 0px;
+                vertical-align: middle;
+            }
+            .report .report-list tbody tr td {
+                font-size: 16pt;
+                padding: 7px 3px 0px 3px;
+            }
+        </style>
+      </head>
+  <body>
+      <div class="report">
+          <div class="report-body">
+                <table border="0" cellpadding="0" cellspacing="0" class="report-list">
+                    <thead>
+                        <tr>
+                            <th align="center" valign="middle" colspan="7">
+                                ตารางสอบปลายภาค ประจำภาคการศึกษาที่
+                                2/2560                            </th>
+                        </tr>
+                        <tr>
+                            <th align="center" valign="middle" colspan="7">
+                                หลักสูตรปริญญาตรี(ภาคพิเศษ)                                &nbsp;
+                                คณะศึกษาศาสตร์ มหาวิทยาลัยเชียงใหม่                            </th>
+                        </tr>
+                    </thead>
+                </table>
+                <table border="1" cellpadding="0" cellspacing="0" class="report-list">
+                    <thead>
+                        <tr>
+                            <th align="center" valign="middle" style="width: 18%;">วัน-เดือน-ปี<br>เวลา</th>
+                            <th align="center" valign="middle" style="width: 8%;">กระบวน<br>วิชา</th>
+                            <th align="center" valign="middle" style="width: 5%;">ตอน<br>ที่</th>
+                            <th align="center" valign="middle" style="width: 8%;">จำนวน<br>นักศึกษา</th>
+                            <th align="center" valign="middle">ห้องสอบ</th>
+                            <th align="center" valign="middle">กรรมการคุมสอบ</th>
+                            <th align="center" valign="middle" style="width: 15%;">ลายมือชื่อ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                                        <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันอังคาร                                <br>&nbsp;1 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">074101</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">49</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4210)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. ผศ.ดร.พิชัยณรงค์ กงแก้ว                                        <br>                                        2. นายปรีชา ธนันชัย                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันพุธ                                <br>&nbsp;2 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057121</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;701</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">31</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ดร.สราวุฒิ พงษ์พิพัฒน์                                        <br>                                        2. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    15.30-18.30                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057132</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">1</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันพฤหัสบดี                                <br>&nbsp;3 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057121</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;702</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">31</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นางนันทิดา รัตนะ                                        <br>                                        2. นางมยุรา จันทวงศ์                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    15.30-18.30                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">074101</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;802</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">45</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ประกรณ์ ตุ้ยศรี                                        <br>                                        2. อ.ธัชกร พุกกะมาน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">074101</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;803</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">24</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                        <br>                                        2. น.ส.สุดาพร เขาเวียนวง                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันศุกร์                                <br>&nbsp;4 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">079444</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">57</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นางมยุรา จันทวงศ์                                        <br>                                        2. น.ส.วราภรณ์ ศรีธิ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันอาทิตย์                                <br>&nbsp;6 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057136</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">41</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคารคหกรรม ชั้น 1                                        <br>(EB 8105)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ดร.สราวุฒิ พงษ์พิพัฒน์                                        <br>                                        2. อ.ธัชกร พุกกะมาน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันจันทร์                                <br>&nbsp;7 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057122</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;701</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">16</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4202)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ดร.ชินวัฒน์ ไข่เกตุ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">074100</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">39</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                        <br>                                        2. อ.ธัชกร พุกกะมาน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    15.30-18.30                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057137</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">50</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ดร.ชินวัฒน์ ไข่เกตุ                                        <br>                                        2. ผศ.ดร.พิชัยณรงค์ กงแก้ว                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057137</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;802</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">52</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                        <br>                                        2. น.ส.สุดาพร เขาเวียนวง                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันอังคาร                                <br>&nbsp;8 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    15.30-18.30                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057131</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">1</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ณัชชาจารย์ โรจน์วัฒนดิษกุล                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันพฤหัสบดี                                <br>&nbsp;10 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">057127</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;701</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">16</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. ผศ.ดร.กรัณย์ ปัญโญ                                        <br>                                        2. อ.ธัชกร พุกกะมาน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">074201</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">35</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.ประกรณ์ ตุ้ยศรี                                        <br>                                        2. น.ส.สุดาพร เขาเวียนวง                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">079466</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">54</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 3 ชั้น 2                                         <br>(ห้องประชุม 30 ปี (EB 3205-7))                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. นางมยุรา จันทวงศ์                                        <br>                                        2. นางนันทิดา รัตนะ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                <tr>
+                                <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                วันเสาร์                                <br>&nbsp;12 พฤษภาคม 2561                                </td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                                <td style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;</td>
+                            </tr>
+                                                                                            <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    08.00-11.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061306</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;802</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">25</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 4 ชั้น 2                                        <br>(EB 4210)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุภลักษณ์ วงศ์หน่อ                                        <br>                                        2. นายอรรถพันธ์ แจ่มกระจ่าง                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061309</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">61</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุพจน์ จิตรทอง                                        <br>                                        2. น.ส.วราภรณ์ ศรีธิ                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    12.00-15.00                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061306</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;801</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">42</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 3                                        <br>(EB 1302)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุพจน์ จิตรทอง                                        <br>                                        2. นางนิตยา สอาดล้วน                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                <tr>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                    &nbsp;                                    </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">061309</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">&nbsp;802</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">51</td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                        อาคาร 1 ชั้น 2                                        <br>(EB 1203)                                    </td>
+                                    <td align="left" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                    1. อ.สุภลักษณ์ วงศ์หน่อ                                        <br>                                        2. น.ส.วรนุช ดาวปลื้ม                                                                                                                </td>
+                                    <td align="center" valign="top" style="border-top-color: #FFF; border-bottom-color: #FFF;">
+                                                                                                                        <div>...........................</div>
+                                                                                    <div>...........................</div>
+                                                                                                                </td>
+                                </tr>
+                                                                                                                            </tbody>
+                </table>
+          </div>
+      </div>
+  </body>
+</html>
