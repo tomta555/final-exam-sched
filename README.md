@@ -1,6 +1,15 @@
 # Final exam scheduling system
 Final exam scheduling system implemented using graph coloring algorithm.
+## ความต้องการของระบบ
 
+-   Python version 3.8 ขึ้นไป
+    สามารถ download ตัวติดตั้ง Python ได้ที่ https://www.python.org/downloads
+
+-   Package networkx
+    ติดตั้งได้หลังจากติดตั้ง Python แล้ว ด้วยคำสั่ง 
+```
+pip install networkx
+``` 
 ## โครงสร้างไดเรกทอรีสำหรับข้อมูลนำเข้าของโปรแกรม
 
 ข้อมูลนำเข้าของโปรแกรมต้องมีการจัดเก็บตามโครงสร้างไดเรกทอรี่และมีการตั้งชื่อไฟล์ดังที่แสดงด้านล่าง
